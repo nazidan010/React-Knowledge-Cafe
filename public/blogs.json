@@ -1,52 +1,42 @@
 [
     {
         "id": "001",
-        "cover": "https://i.ibb.co.com/yPdQD41/freepik-upload-92544.jpg",
+        "cover": "https://i.ibb.co.com/K7fYkHZ/1.jpg",
         "title": "Unlocking the Future of AI",
         "author": "Dr. Jane Robins",
-        "author_img": "https://i.ibb.co.com/yPdQD41/freepik-upload-92544.jpg",
+        "author_img": "https://i.ibb.co.com/bHMbY7S/boy1.png",
         "posted_date": "2024-09-01",
         "reading_time": 8,
-        "hashtags": ["#AI", "#FutureTech", "#Innovation"]
+        "hashtags": ["#AI", "#FutureTech" , " #Innovation"]
     },
     {
         "id": "002",
-        "cover": "https://i.ibb.co.com/BcwwNVx/laura-vinck-Hyu76lo-QLdk-unsplash.jpg",
+        "cover": "https://i.ibb.co.com/r0XS9QT/2.png",
         "title": "Exploring Deep Space: The Final Frontier",
         "author": "Dr. Mark Chen",
-        "author_img": "https://i.ibb.co.com/BcwwNVx/laura-vinck-Hyu76lo-QLdk-unsplash.jpg",
+        "author_img": "https://i.ibb.co.com/rM8kj7c/boy2.jpg",
         "posted_date": "2024-08-15",
         "reading_time": 10,
         "hashtags": ["#SpaceExploration", "#Astronomy", "#Science"]
     },
     {
         "id": "003",
-        "cover": "https://i.ibb.co.com/HqNrc6H/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+        "cover": "https://i.ibb.co.com/RcBH82d/3.png",
         "title": "Mindfulness in the Digital Age",
         "author": "Sarah Lee",
-        "author_img": "https://i.ibb.co.com/HqNrc6H/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+        "author_img": "https://i.ibb.co.com/zsNMcTy/girl1.jpg",
         "posted_date": "2024-07-23",
         "reading_time": 6,
         "hashtags": ["#Mindfulness", "#MentalHealth", "#DigitalWellness"]
     },
     {
         "id": "004",
-        "cover": "https://i.ibb.co.com/KWx5zW1/stormseeker-r-X12-B5u-X7-QM-unsplash.jpg",
+        "cover": "https://i.ibb.co.com/BsrnDKb/4.jpg",
         "title": "The Art of Sustainable Living",
         "author": "Jack Evans",
-        "author_img": "https://i.ibb.co.com/KWx5zW1/stormseeker-r-X12-B5u-X7-QM-unsplash.jpg",
+        "author_img": "https://i.ibb.co.com/wJxNw1n/girl2.jpg",
         "posted_date": "2024-08-05",
         "reading_time": 7,
         "hashtags": ["#Sustainability", "#EcoFriendly", "#Lifestyle"]
-    },
-    {
-        "id": "005",
-        "cover": "https://i.ibb.co.com/j4spx0m/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
-        "title": "Cryptocurrency 101: What You Need to Know",
-        "author": "Emily Nguyen",
-        "author_img": "https://i.ibb.co.com/j4spx0m/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
-        "posted_date": "2024-08-25",
-        "reading_time": 5,
-        "hashtags": ["#Crypto", "#Blockchain", "#Finance"]
     }
 ]
